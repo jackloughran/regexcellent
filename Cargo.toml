@@ -1,0 +1,6 @@
+[package]
+name = "regexcellent"
+version = "0.1.0"
+authors = ["Jack Loughran <30052269+jackloughran@users.noreply.github.com>"]
+
+[dependencies]
